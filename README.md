@@ -32,16 +32,6 @@ This application helps users organize and manage their daily tasks through a sim
 3. Open `index.html` in a web browser.
 4. Alternatively, use the VS Code Live Server extension.
 
-## Project Structure
-
-```text
-CODSOFT_TASKS02/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
 ## Internship
 
 CODSOFT Frontend Development Internship – Task 2
